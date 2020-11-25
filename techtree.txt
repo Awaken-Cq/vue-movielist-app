@@ -1,0 +1,7 @@
+1. Vue cli을 통한 프로젝트 세팅 vue ver2
+2. Add Vuetify plugin
+// Add Vue-router
+3. Add Vuex plugin
+4. 기본 페이지 세팅
+5. 컴포넌트 구성
+6. axios 모듈 설치
